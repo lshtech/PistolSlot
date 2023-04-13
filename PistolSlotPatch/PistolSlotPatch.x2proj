@@ -2,18 +2,18 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Guid>d6e04f73-4855-4f28-b8cd-13e4de328750</Guid>
-    <Name>WOTC_PistolSlot</Name>
+    <Name>PistolSlotPatch</Name>
     <Description>Description of My XCOM 2 Mod.</Description>
     <SteamPublishID>0</SteamPublishID>
-    <AssemblyName>WOTC_PistolSlot</AssemblyName>
-    <RootNamespace>WOTC_PistolSlot</RootNamespace>
+    <AssemblyName>PistolSlotPatch</AssemblyName>
+    <RootNamespace>PistolSlotPatch</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
     <Folder Include="Localization\" />
     <Folder Include="Src\" />
-    <Folder Include="Src\WOTC_PistolSlot\" />
-    <Folder Include="Src\WOTC_PistolSlot\Classes\" />
+    <Folder Include="Src\PistolSlotPatch\" />
+    <Folder Include="Src\PistolSlotPatch\Classes\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ReadMe.txt" />
